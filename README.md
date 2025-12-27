@@ -1,6 +1,6 @@
 
 
-![gif] (https://pin.it/30mAL1q4R)
+https://github.com/FXz9-w2i/Bio-about-me/issues/1
 
 
 
