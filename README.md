@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/fxzUuVeKmgqp2EZWuw/giphy.gif" width="300">
+
 
 # Bio-about-me
 ABOUT ME: 
