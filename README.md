@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="380"/>
+  <img src="https://media.giphy.com/media/3o7aD6Jp7H8LZc8g1i/giphy.gif" width="380"/>
 </p>
 
-
-
-
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" width="380"/>
+</p>
 
 
 
