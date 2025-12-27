@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD6Jp7H8LZc8g1i/giphy.gif" width="380"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" width="380"/>
-</p>
+https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyY2Zwb2ZmeTZxZjFtMXhrMWJxdms1MHI4Y2ZlcGx0bmRwZWMxcWdkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fxzUuVeKmqgp2EZWuw/giphy.gif
 
 
 
