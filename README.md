@@ -1,4 +1,5 @@
-![gif](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyY2Zwb2ZmeTZXZjFtMXhrMWJxdms1MHI4Y2ZlcGx0bmRwZWVxWdkelZlcD12MV9pbhnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fxzUuVeKmgqp2EZWuw/giphy.gif)
+<img src="https://media1.giphy.com/media/fxzUuVeKmgqp2EZWuw/giphy.gif" width="300">
+
 # Bio-about-me
 ABOUT ME: 
 Привет!!! [24.8.09] (16 лет) я могу быть занятой, но! всегда рада поболтать или же знакомиться :3 шарю за большинств игр и фильмов/сериалов! ИЛИ ЖЕ! слушаю много страшилок от разных рассказчиков!!
