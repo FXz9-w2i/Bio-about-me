@@ -1,6 +1,6 @@
 
 
-https://github.com/FXz9-w2i/Bio-about-me/issues/1
+https://github.com/FXz9-w2i/Bio-about-me.gif
 
 
 
